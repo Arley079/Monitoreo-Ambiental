@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portafolio - VirtualInstruments</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>VirtualInstruments</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="sobre-nosotros.html">Sobre Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="portafolio.html">Portafolio</a>
+      <a href="recursos.html">Recursos</a>
+      <a href="faq.html">FAQ</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Problema Planteado</h2>
+      <p>Se busca diseñar una solución integral para el monitoreo y control de parámetros ambientales en centros de datos, asegurando la eficiencia energética y prevención de fallos.</p>
+    </section>
+    <section>
+      <h3>Metodología</h3>
+      <p>Se empleó una metodología ágil con las siguientes fases: análisis, diseño, desarrollo, pruebas e implementación.</p>
+    </section>
+    <section>
+      <h3>Fases y Resultados</h3>
+      <ul>
+        <li><strong>Análisis:</strong> Identificación de necesidades y requisitos.</li>
+        <li><strong>Diseño:</strong> Arquitectura del sistema y selección de tecnologías.</li>
+        <li><strong>Desarrollo:</strong> Programación e integración de componentes.</li>
+        <li><strong>Pruebas:</strong> Validación funcional y ajustes.</li>
+        <li><strong>Implementación:</strong> Despliegue y monitoreo en ambiente real.</li>
+      </ul>
+      <p>Resultados: Mejora del 20% en eficiencia energética y reducción significativa de riesgos de fallos.</p>
+    </section>
+    <section>
+      <h3>Infografías de los Estudiantes</h3>
+      <div>
+        <h4>Ana Pérez</h4>
+        <img src="infografia-ana.png" alt="Infografía Ana Pérez" width="300" />
+      </div>
+      <div>
+        <h4>Carlos Gómez</h4>
+        <img src="infografia-carlos.png" alt="Infografía Carlos Gómez" width="300" />
+      </div>
+      <div>
+        <h4>Lucía Martínez</h4>
+        <img src="infografia-lucia.png" alt="Infografía Lucía Martínez" width="300" />
+      </div>
+      <div>
+        <h4>Juan Torres</h4>
+        <img src="infografia-juan.png" alt="Infografía Juan Torres" width="300" />
+      </div>
+    </section>
+    <section>
+      <h3>Galería del Proyecto</h3>
+      <img src="proyecto-1.jpg" alt="Proyecto 1" width="400" />
+      <img src="proyecto-2.jpg" alt="Proyecto 2" width="400" />
+      <video width="400" controls>
+        <source src="video-proyecto.mp4" type="video/mp4" />
+        Tu navegador no soporta videos HTML5.
+      </video>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 VirtualInstruments</p>
+  </footer>
+</body>
+</html>
