@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sobre Nosotros - VirtualInstruments</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>VirtualInstruments</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="sobre-nosotros.html">Sobre Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="portafolio.html">Portafolio</a>
+      <a href="recursos.html">Recursos</a>
+      <a href="faq.html">FAQ</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Sobre Nosotros</h2>
+      <p>VirtualInstruments es una empresa ficticia creada para el desarrollo y presentación de soluciones en instrumentación virtual, aplicando conocimientos adquiridos en el curso.</p>
+    </section>
+    <section>
+      <h3>Equipo de Estudiantes</h3>
+      <ul>
+        <li><strong>Ana Pérez</strong> - Coordinadora del proyecto, responsable de análisis de requisitos y documentación.</li>
+        <li><strong>Carlos Gómez</strong> - Desarrollo y programación de interfaces virtuales.</li>
+        <li><strong>Lucía Martínez</strong> - Diseño gráfico y elaboración de infografías.</li>
+        <li><strong>Juan Torres</strong> - Integración de hardware y pruebas de campo.</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 VirtualInstruments</p>
+  </footer>
+</body>
+</html>
