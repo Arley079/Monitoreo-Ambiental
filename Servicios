@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Servicios - VirtualInstruments</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>VirtualInstruments</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="sobre-nosotros.html">Sobre Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="portafolio.html">Portafolio</a>
+      <a href="recursos.html">Recursos</a>
+      <a href="faq.html">FAQ</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Servicios de Instrumentación Virtual</h2>
+      <ul>
+        <li>Desarrollo de interfaces gráficas para monitoreo en tiempo real.</li>
+        <li>Integración de sensores y adquisición de datos remota.</li>
+        <li>Análisis y visualización avanzada de datos.</li>
+        <li>Consultoría para automatización de procesos mediante instrumentación virtual.</li>
+        <li>Capacitación y soporte técnico personalizado.</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 VirtualInstruments</p>
+  </footer>
+</body>
+</html>
